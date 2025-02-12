@@ -1,0 +1,7 @@
+.font{
+    font-family: cursive;
+    font-size: 3rem;
+}
+#Button{
+    transform: scale(1.5);
+}
